@@ -1,8 +1,7 @@
 import socket 
 
 # Server address and port
-SERVER_ADDRESS = '192.168.1.44'
-# SERVER_ADDRESS = '172.20.10.7'
+SERVER_ADDRESS = ''
 SERVER_PORT = 12000
 
 # Splitting, printing status code and status phase
